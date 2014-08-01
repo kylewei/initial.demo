@@ -1,3 +1,0 @@
-this text is created for testing git features.
-also change test.txt
-hello
